@@ -55,4 +55,4 @@ http://localhost:5173
 - Vite
 - JavaScript
 - CSS
-- date-fns
+- date-fns.
