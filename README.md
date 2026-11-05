@@ -46,7 +46,7 @@ npm run dev
 Open your browser at:
 
 ```
-http://localhost:5173
+http://localhost:5175/
 ```
 
 ## Technologies
@@ -55,4 +55,4 @@ http://localhost:5173
 - Vite
 - JavaScript
 - CSS
-- date-fns.
+- date-fns
