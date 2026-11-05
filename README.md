@@ -9,7 +9,7 @@ This is a React application built with Vite that displays the current date and t
 - Updates every second.
 - Uses React and JSX.
 - Uses the date-fns package.
-- Includes colorful styling
+- Includes colorful styling.
 
 ## Installation
 
